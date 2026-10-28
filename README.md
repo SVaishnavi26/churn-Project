@@ -83,7 +83,7 @@ Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn, Jupyter
 ## How to run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SVaishnavi26/churn-Project.git
 cd churn-project
 python -m venv venv
 venv\Scripts\activate          # Windows
@@ -98,6 +98,4 @@ Download the dataset from Kaggle, place the CSV in the project folder, then open
 - Possible improvements: feature engineering, hyperparameter tuning, probability calibration.
 - Planned: customer segmentation with K-means, and a small Streamlit app.
 
-## Author
 
-<Your name> | <LinkedIn or email>
